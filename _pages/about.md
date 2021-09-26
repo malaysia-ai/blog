@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+AI community in Malaysia to share models/datasets/resources for helping Malaysian get started in AI (**[Malaysia AI](https://github.com/malaysia-ai/)**) 
