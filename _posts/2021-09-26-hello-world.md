@@ -4,6 +4,7 @@ layout: post
 description: Description.
 categories: [markdown]
 title: Malaysia AI
+comments: true
 ---
 # Description
 
