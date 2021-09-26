@@ -15,7 +15,7 @@ _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
 
-- [Edit in cloud](https://https://github.dev/malaysia-ai/blog)
+- [Edit in cloud](https://github.dev/malaysia-ai/blog)
 
 - [Work Locally](_fastpages_docs/DEVELOPMENT.md)
 
