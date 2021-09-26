@@ -4,6 +4,7 @@ layout: post
 description: Description.
 categories: [markdown]
 title: Malaysia AI
+author: Khursani & Husein
 comments: true
 ---
 # Description
