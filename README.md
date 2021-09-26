@@ -18,7 +18,7 @@ Great!  You have setup your repo.  Now its time to start writing content.  Some 
 - [Edit in cloud](https://https://github.dev/malaysia-ai/blog)
 
 - [Work Locally](_fastpages_docs/DEVELOPMENT.md)
-- 
+
 - [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
 
 - [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
