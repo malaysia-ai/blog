@@ -45,3 +45,7 @@ Store general purpose for texts. If you part of the organization, you can access
 8. [Jupyterhub](https://github.com/malaysia-ai/Jupyterhub), Jupyterhub with GPU. If you part of the organization, you can access to jupyterhub!
 
 9. [blog](https://github.com/malaysia-ai/blog), Malaysia-AI Blog.
+
+## Demo
+
+1. https://huggingface.co/malay-huggingface
