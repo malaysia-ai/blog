@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Description.
+description: Why we willing to spend out time on Malaysia AI.
 categories: [markdown]
 title: Malaysia AI
 author: Khursani & Husein
