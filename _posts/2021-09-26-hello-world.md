@@ -47,6 +47,10 @@ Store general purpose for texts. If you part of the organization, you can access
 
 9. [blog](https://github.com/malaysia-ai/blog), Malaysia-AI Blog.
 
+10. [projects](https://github.com/malaysia-ai/projects), Collecting projects related to Malaysia from multiple domain such as Tabular, Image, Text and Audio.
+
+11. [zerotier](https://github.com/malaysia-ai/zerotier), Easy VPN for Malaysia AI machines. Feel free to donate any machines for Malaysia AI!
+
 ## Demo
 
 1. https://huggingface.co/malay-huggingface
