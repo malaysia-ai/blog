@@ -77,7 +77,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      2 min read
+      1 min read
     
 </span></p>
 
@@ -188,16 +188,16 @@ Among the video conferencing software out there, Zoom, MS Teams, Amazon Chime su
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>--2021-10-31 16:20:19--  https://img.freepik.com/free-photo/green-park-view_1417-1492.jpg?size=626&amp;ext=jpg
-Resolving img.freepik.com (img.freepik.com)... 2600:140e:6:b8d::30ec, 2600:140e:6:bbf::30ec, 184.31.29.148
-Connecting to img.freepik.com (img.freepik.com)|2600:140e:6:b8d::30ec|:443... connected.
+<pre>--2021-10-31 16:24:35--  https://img.freepik.com/free-photo/green-park-view_1417-1492.jpg?size=626&amp;ext=jpg
+Resolving img.freepik.com (img.freepik.com)... 2600:140e:6:bbf::30ec, 2600:140e:6:b8d::30ec, 184.31.29.148
+Connecting to img.freepik.com (img.freepik.com)|2600:140e:6:bbf::30ec|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 113518 (111K) [image/jpeg]
 Saving to: ‘./artifacts/bg.jpg’
 
 ./artifacts/bg.jpg  100%[===================&gt;] 110.86K  --.-KB/s    in 0.1s    
 
-2021-10-31 16:20:20 (932 KB/s) - ‘./artifacts/bg.jpg’ saved [113518/113518]
+2021-10-31 16:24:36 (896 KB/s) - ‘./artifacts/bg.jpg’ saved [113518/113518]
 
 </pre>
 </div>
@@ -251,20 +251,20 @@ Saving to: ‘./artifacts/bg.jpg’
 
 <div class="output_area">
 
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>&lt;mediapipe.python.solutions.selfie_segmentation.SelfieSegmentation at 0x7fe8744f5c40&gt;</pre>
-</div>
-
-</div>
-
-<div class="output_area">
-
 <div class="output_subarea output_stream output_stderr output_text">
 <pre>INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 </pre>
 </div>
+</div>
+
+<div class="output_area">
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&lt;mediapipe.python.solutions.selfie_segmentation.SelfieSegmentation at 0x7fabe9baff10&gt;</pre>
+</div>
+
 </div>
 
 </div>
@@ -299,7 +299,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.image.AxesImage at 0x7fe87ce01490&gt;</pre>
+<pre>&lt;matplotlib.image.AxesImage at 0x7fabf150f9a0&gt;</pre>
 </div>
 
 </div>
@@ -344,7 +344,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.image.AxesImage at 0x7fe87d30b760&gt;</pre>
+<pre>&lt;matplotlib.image.AxesImage at 0x7fabf1a25190&gt;</pre>
 </div>
 
 </div>
@@ -425,7 +425,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.image.AxesImage at 0x7fe87d569760&gt;</pre>
+<pre>&lt;matplotlib.image.AxesImage at 0x7fabf1bc3220&gt;</pre>
 </div>
 
 </div>
@@ -472,7 +472,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.image.AxesImage at 0x7fe87d7d8bb0&gt;</pre>
+<pre>&lt;matplotlib.image.AxesImage at 0x7fabf1e21b50&gt;</pre>
 </div>
 
 </div>
@@ -517,7 +517,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.image.AxesImage at 0x7fe87d8a6220&gt;</pre>
+<pre>&lt;matplotlib.image.AxesImage at 0x7fabf1f13850&gt;</pre>
 </div>
 
 </div>
@@ -541,18 +541,7 @@ Saving to: ‘./artifacts/bg.jpg’
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion"> </a></h2><p>Human do face recognition by comparing feature of a person that is stored in their memory and compare with the person in front of them. That's why we did not do similar technique being done like Image classification for Imagenet dataset for example. With comparing we don't need to have fixed number of class</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Glossary</p>
-<ol>
-<li>Embedding = Vector consist of the image information that is learned by the model(similar image will be near to each other). You can think of embedding like array of one dimension [1,2] and [1,3]. If you plot them they will be near to each other compare to [10,200].Usually embedding got lot more column like 256 and not two column(x and y) like above which make it more expressive.</li>
-<li>Distance = measure of how much alike two data objects are <a href="https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/">https://dataaspirant.com/five-most-popular-similarity-measures-implementation-in-python/</a></li>
-</ol>
+<h2 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion"> </a></h2><p>Virtual background is a simple technique that you only need to know how to extract the foreground and background and combine them as final result</p>
 
 </div>
 </div>
